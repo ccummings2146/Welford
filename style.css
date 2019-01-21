@@ -1,0 +1,125 @@
+
+.hfont{
+    font-family:Marck Script;
+    color:lightgray;
+}
+
+.madeinfont{
+    font-family:Marck Script;
+    color:#000000;
+}
+
+.cfont{
+    color:lightgray;
+}
+
+hr{border-top: 1px #D3D3D3;}
+
+
+p{
+    font-family: Trebuchet MS, Helvetica;
+    font-size:16px;
+}
+
+
+
+#img1{
+    position:relative;
+    float:left;
+    object-fit:cover;
+    background-position: 50% 50%;
+    background-repeat:no-repeat;
+    background-size:cover;
+    width:30vw;
+    height:30vw;
+    margin-bottom:1%;
+}
+#img2{
+    position:relative;
+    float:left;
+    object-fit:cover;
+    background-position:50% 50%;
+    background-repeat:no-repeat;
+    background-size:cover;
+    width:20vw;
+    height:23vw;
+}
+
+#lt{
+
+text-decoration: line-through;
+color:lightgray;
+
+}
+
+
+#ls{
+
+color:lightgray;
+}
+
+#img3{
+    position:relative;
+    float:left;
+    object-fit:cover;
+    background-position:50% 50%;
+    background-repeat:no-repeat;
+    background-size:cover;
+    width: 17vw;
+    height: 17vw;
+}
+
+#imagetext{
+    position:relative;
+    float:left;
+    object-fit:cover;
+    width:15vw;
+    height:15vw;
+}
+
+body{
+	margin-left:11%;
+	margin-right:11%;
+}
+
+svg{
+    position: absolute;
+    z-index: 1
+    top:200px;
+    left:275px;
+}
+
+section{
+    margin-left:10%;
+	margin-right:10%;
+}
+
+a {
+  text-decoration: none;
+  color:grey;
+}
+
+.nav{text-align: center;}
+
+.navbot{text-align:center;}
+
+.navmob{display: none;}
+
+
+.nav{display: block;}
+
+.navtopmov{display: none;}
+
+.mobileImage{display: none;}
+
+
+#hideButton {display: none;}
+
+.normalHeader{display: block;}
+
+@viewport {
+    width: device-width;
+    zoom:1.0;
+}
+
+

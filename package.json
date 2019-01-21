@@ -1,0 +1,26 @@
+{
+  "name": "weltest",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccummings2146/Welford_test-.git"
+  },
+  "author": "chris cummings",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ccummings2146/Welford_test-/issues"
+  },
+  "homepage": "https://github.com/ccummings2146/Welford_test-#readme",
+  "devDependencies": {
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.11.0"
+  },
+  "dependencies": {
+    "gulp": "^4.0.0"
+  }
+}
