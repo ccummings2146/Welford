@@ -5,4 +5,4 @@ Interview Assessment
 Website Developed for fictional company. 
 
 
-![Uploading welford_web_large.png...]()
+![Test Image 1](welford_web_large.png)
